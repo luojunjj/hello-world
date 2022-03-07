@@ -1,3 +1,3 @@
 # hello-world
 1gg
-i love :coffee:,:pizza:,and :apple:.
+i love :coffee:,:egg:,and :apple:.
